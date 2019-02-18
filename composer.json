@@ -1,6 +1,6 @@
 {
     "name": "klepak/azure-storage-table-model",
-    "description": "Provides an ActiveRecord wrapper around the Azure Storage Table API",
+    "description": "Provides a model wrapper around the Azure Storage Table API",
     "authors": [
         {
             "name": "Knut Leborg",
